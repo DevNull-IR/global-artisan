@@ -1,6 +1,13 @@
 # global-artisan
 not use php artisan use artisan arg
 
+
+It is no longer necessary to write php artisan and we can only use the word artisan in our projects to use artisan
+
+
+دیگر نیازی به نوشتن php artisan نیست و فقط می توانیم از کلمه artisan در پروژه های خود برای استفاده از artisan استفاده کنیم.
+
+
 # Use
 
 Extract archive in your pc (drive) and go to **environment variables**:
