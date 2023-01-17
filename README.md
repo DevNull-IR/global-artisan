@@ -32,3 +32,6 @@ not use:
 ```bash
 php artisan
 ```
+
+
+Pleas Join Telegram Group: [laravel city](https://t.me/laravel_city)
