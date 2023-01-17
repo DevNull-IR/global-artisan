@@ -9,4 +9,19 @@ Extract archive in your pc (drive) and go to **environment variables**:
 
 And click to **Environment Variables**:
 
-![Search windows environment variables](https://raw.githubusercontent.com/DevNull-IR/dev-static-app/main/0.png)
+![environment variables](https://raw.githubusercontent.com/DevNull-IR/dev-static-app/main/0.png)
+
+Open path and click to new and past path archive extracted:
+
+![environment variables](https://raw.githubusercontent.com/DevNull-IR/dev-static-app/main/ss.png)
+
+![environment variables path](https://raw.githubusercontent.com/DevNull-IR/dev-static-app/main/asd.png)
+
+ok open your laravel project and use:
+```bash
+artisan
+```
+not use:
+```bash
+php artisan
+```
