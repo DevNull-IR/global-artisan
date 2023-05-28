@@ -10,6 +10,21 @@ It is no longer necessary to write php artisan and we can only use the word arti
 
 # Use
 
+## Linux
+Extract archive in your pc (drive) and go to terminal
+
+Paste this code's
+
+```bash
+sudo mv artisan.sh /usr/local/bin/artisan
+sudo chmod +x /usr/local/bin/artisan
+```
+Use `artisan` Command global :))
+
+```php
+artisan make:model Product -m
+```
+## Windows
 Extract archive in your pc (drive) and go to **environment variables**:
 
 ![Search windows environment variables](https://raw.githubusercontent.com/DevNull-IR/dev-static-app/main/Untitled.png)
